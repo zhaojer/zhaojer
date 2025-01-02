@@ -59,8 +59,8 @@ text, tspan {white-space: pre;}
 <tspan x="470" y="410" class="keyColor">YouTube</tspan>: <tspan class="valueColor">@jz1729</tspan>
 <tspan x="470" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="470" y="470">——————</tspan>
-<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">68</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">70</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">615    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
-<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">0   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">3,307,160</tspan> (<tspan class="addColor">3,406,712++</tspan>, <tspan class="delColor">99,552--</tspan>)
+<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">68</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">70</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">618    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">0   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">3,307,140</tspan> (<tspan class="addColor">3,406,746++</tspan>, <tspan class="delColor">99,606--</tspan>)
 </text>
 
 </svg>
