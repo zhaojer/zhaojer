@@ -443,12 +443,12 @@ if __name__ == '__main__':
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
 
     # several repositories that I've contributed to have since been deleted.
-    if OWNER_ID == {'id': 'MDQ6VXNlcjU1Nzc0MzI5'}: # only calculate for user zhaojer
-        archived_data = add_archive()
-        for index in range(len(total_loc)-1):
-            total_loc[index] += archived_data[index]
-        contrib_data += archived_data[-1]
-        commit_data += int(archived_data[-2])
+    # if OWNER_ID == {'id': 'MDQ6VXNlcjU1Nzc0MzI5'}: # only calculate for user zhaojer
+    #     archived_data = add_archive()
+    #     for index in range(len(total_loc)-1):
+    #         total_loc[index] += archived_data[index]
+    #     contrib_data += archived_data[-1]
+    #     commit_data += int(archived_data[-2])
 
     commit_data = formatter('commit counter', commit_time, commit_data, 7)
     star_data = formatter('star counter', star_time, star_data)
