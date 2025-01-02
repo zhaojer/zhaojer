@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1075px" height="555px" font-size="16px">
+<style>
+.keyColor {fill: #953800;}
+.valueColor {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="1070px" height="550px" fill="#f6f8fa" rx="15"/>
+
+<text x="15" y="30" fill="#24292f" class="ascii" style="letter-spacing: -1px;">
+<tspan x="15" y="30">/..///*///(/*.******* ,.////@////*@&amp;&amp;&amp;&amp;&amp;%#,******//////(</tspan>
+<tspan x="15" y="50">////(//*///.****  ...(.(*(//#/&amp;/(*/&amp;/*&amp;*@&amp;&amp;&amp;&amp;*****//////</tspan>
+<tspan x="15" y="70">////*/////**/ .*.* ,(/#((@#%&amp;(%&amp;/#////&amp;***%&amp;&amp;&amp;*****/////</tspan>
+<tspan x="15" y="90">/,((///.//*// ./*,.(.((%@&amp;&amp;@@&amp;&amp;&amp;&amp;@@#/##//(#&amp;&amp;&amp;&amp;*****////</tspan>
+<tspan x="15" y="110">..(///**,///*,./ //(%&amp;&amp;&amp;&amp;@@@@@@&amp;&amp;@&amp;&amp;&amp;@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;/*****//</tspan>
+<tspan x="15" y="130">../((***%///,./**(/#&amp;@&amp;&amp;%%%&amp;@&amp;&amp;&amp;&amp;@@&amp;&amp;@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%******</tspan>
+<tspan x="15" y="150">.*(((//*%****(..,.(@&amp;%#%%%%%&amp;&amp;@@#((#%%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;***/*</tspan>
+<tspan x="15" y="170">/(//**,*,(,..#&amp;%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%%%%&amp;@&amp;&amp;&amp;&amp;&amp;&amp;&amp;****</tspan>
+<tspan x="15" y="190">.,(//,*/..%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%&amp;%%%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%%%%&amp;@&amp;&amp;&amp;(***</tspan>
+<tspan x="15" y="210">  (//*,,&amp;%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%%%%%%%%%%%%%%%%%%%%%&amp;&amp;&amp;&amp;&amp;%%%&amp;&amp;@&amp;%***</tspan>
+<tspan x="15" y="230"> ,##*/#.  /(#%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%#######%%#%%%%%%%%%#((//(%@@@(**</tspan>
+<tspan x="15" y="250">**/##(.,  . .#%%%%%&amp;&amp;&amp;%#%%%###%%%%%&amp;&amp;&amp;%%%##((///(%@%@/**</tspan>
+<tspan x="15" y="270"> ###(*,   ,,/*(#%%&amp;&amp;%####%%%%%&amp;##%#####(((///&amp;&amp;&amp;#(%/((%#</tspan>
+<tspan x="15" y="290">,#%#(,     .../(///(//(((#####%#%%%%%%%#(((//(////#(((%#</tspan>
+<tspan x="15" y="310">.(##((    .*//((///*//((/#####%########((((////***%##(#/</tspan>
+<tspan x="15" y="330">/(/##(.  .,(((**,****(((((####(###(((##(((((//***/%%###,</tspan>
+<tspan x="15" y="350">*//.* * .,,(((((((((##(//###((((#####(#((((/////*#(#%#,,</tspan>
+<tspan x="15" y="370"> /(/ ,/  ,.//((((((#%((##((((((//###((((////////(%%#(.,,</tspan>
+<tspan x="15" y="390">&amp;&amp;&amp;&amp;&amp;&amp;%,  ,*(((((######%%###%##%####((((////////#(/...,,</tspan>
+<tspan x="15" y="410">. (%%%%%  ,*/((((######%##%%######((((((///////@@@@@&amp;&amp;#.</tspan>
+<tspan x="15" y="430">%%%%%%&amp;&amp;(.,/(((######%%%%%######(###((((//////@@@@@@@@@@</tspan>
+<tspan x="15" y="450">&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;/.*/(#(####################(((//////@@@@@&amp;&amp;&amp;&amp;@@</tspan>
+<tspan x="15" y="470">&amp;&amp;&amp;%%&amp;&amp;&amp;*/.,*(#((############(((((((((((//(%@@@@@&amp;&amp;&amp;&amp;@@%</tspan>
+<tspan x="15" y="490">%%%&amp;&amp;@@//@#.***./(############(((((((((/(##%/@@@@@@@@@@@</tspan>
+<tspan x="15" y="510">%%&amp;@&amp;%%/*&amp;%###%,./(########(((((((((((####@@#(@@@@&amp;%&amp;@@@</tspan>
+<tspan x="15" y="530">%%&amp;%##(//(&amp;&amp;%%%%%#*#######(#((((((######%%@@%(%%&amp;@@&amp;&amp;&amp;@@</tspan>
+</text>
+
+<text x="470" y="30" fill="#24292f">
+<tspan x="470" y="30">Jerry Zhao</tspan>
+<tspan x="470" y="50">——————</tspan>
+<tspan x="470" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
+<tspan x="470" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">23 years, 1 month, 23 days</tspan>
+<tspan x="470" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">University of Michigan</tspan><tspan class="commentColor"> #Umich</tspan>
+<tspan x="470" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science, Psychology</tspan>
+<tspan x="470" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode</tspan>
+<tspan x="470" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, C++, Java, Python, TypeScript, JavaScript</tspan>
+<tspan x="470" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Declarative</tspan>: <tspan class="valueColor">SQL, HTML, CSS, JSON, LaTeX, YAML, Markdown</tspan>
+<tspan x="470" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Chinese (Mandarin)</tspan>
+<tspan x="470" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">UFC, movies/shows, video games</tspan>
+<tspan x="470" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">stargazing, working out, playing piano</tspan>
+<tspan x="470" y="330" class="keyColor">Contact</tspan>:
+<tspan x="470" y="350">——————</tspan>
+<tspan x="470" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">zhaojer@umich.com</tspan>
+<tspan x="470" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">jerryzhao1729</tspan>
+<tspan x="470" y="410" class="keyColor">YouTube</tspan>: <tspan class="valueColor">@jz1729</tspan>
+<tspan x="470" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="470" y="470">——————</tspan>
+<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">68</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">70</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">606    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">0   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">3,305,775</tspan> (<tspan class="addColor">3,405,295++</tspan>, <tspan class="delColor">99,520--</tspan>)
+</text>
+
+</svg>
