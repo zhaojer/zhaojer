@@ -47,16 +47,16 @@ text, tspan {white-space: pre;}
 <tspan x="470" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">University of Michigan</tspan><tspan class="commentColor"> #Umich</tspan>
 <tspan x="470" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science, Psychology</tspan>
 <tspan x="470" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode</tspan>
-<tspan x="470" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C++, Java, Python, JavaScript</tspan>
-<tspan x="470" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
+<tspan x="470" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, C++, Java, Python, TypeScript, JavaScript</tspan>
+<tspan x="470" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Declarative</tspan>: <tspan class="valueColor">SQL, HTML, CSS, JSON, LaTeX, YAML, Markdown</tspan>
 <tspan x="470" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Chinese (Mandarin)</tspan>
-<tspan x="470" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="470" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="470" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">UFC, movies/shows, video games</tspan>
+<tspan x="470" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">stargazing, working out, playing piano</tspan>
 <tspan x="470" y="330" class="keyColor">Contact</tspan>:
 <tspan x="470" y="350">——————</tspan>
 <tspan x="470" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">zhaojer@umich.com</tspan>
 <tspan x="470" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">jerryzhao1729</tspan>
-<tspan x="470" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">@jz1729</tspan>
+<tspan x="470" y="410" class="keyColor">YouTube</tspan>: <tspan class="valueColor">@jz1729</tspan>
 <tspan x="470" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="470" y="470">——————</tspan>
 <tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">68</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">70</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">606    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
